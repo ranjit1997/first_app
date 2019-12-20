@@ -94,6 +94,9 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'You have pushed the button this many times:',
             ),
+             Text(
+              'This is My First App',
+            ),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.display1,
